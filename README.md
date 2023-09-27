@@ -1,4 +1,4 @@
-# React Native Document Scanner
+# Masan Document Scannar
 
 [![Npm package version](https://img.shields.io/npm/v/react-native-document-scanner-plugin/latest.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-native-document-scanner-plugin) [![npm dev dependency version](https://img.shields.io/npm/dependency-version/react-native-document-scanner-plugin/dev/react-native?color=61DAFB&logo=react&style=for-the-badge)](https://github.com/WebsiteBeaver/react-native-document-scanner-plugin/blob/master/package.json)
 
