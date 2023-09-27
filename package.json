@@ -1,5 +1,5 @@
 {
-  "name": "@maskan/react-native-scannar",
+  "name": "is-maskan-scannar",
   "version": "0.9.1",
   "description": "A React Native plugin that lets you scan documents using Android and iOS",
   "main": "lib/commonjs/index",
@@ -39,7 +39,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Moiz-Maskan-Tech/maskansnannar.git",
+  "repository": {
+    "type": "git",
+    "url" : "git+https://github.com/Moiz-Maskan-Tech/is-maskan-scannar.git"
+  },
   "author": "maskan-technologies",
   "license": "",
   "devDependencies": {
